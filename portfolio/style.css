@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #2c2c2c;
+}
+
+.nav-link{
+    color: #f1f1f1;
+}
+
+.navbar-brand{
+    color: #f1f1f1;
+}
+
+.corpo{
+    background-color: #3d3d3d;
+}
+
+.card-body{
+    background-color: #5a5a5a;
+}
+
+.card-text{
+    color: #f1f1f1;
+}
+
+.card-title{
+    color: #f1f1f1;
+}
+
+.cardmove{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+
+h1{
+    text-align: center;
+    color: #f1f1f1;
+    padding-top: 1%;
+}
