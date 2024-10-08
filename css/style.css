@@ -39,9 +39,10 @@ h1 {
 }
 
 h2 {
-    background-color: #929292;
-    border-radius: 25px;
+    /* background-color: #929292;
+    border-radius: 25px; */
     font-family: 'Silkscreen';
+    color: #f1f1f1;
 }
 
 
