@@ -4,7 +4,7 @@
 
 .nav-link,
 .navbar-brand {
-    color: #f1f1f1;
+    color: #ffffff;
     font-weight: bold;
     font-family: 'silkscreen';
 }
@@ -16,7 +16,7 @@
 }
 
 .navbar.custom-navbar {
-    background-color: #f1f1f1 !important; /* Altere para a cor desejada */
+    background-color: #ffffff !important; /* Altere para a cor desejada */
 }
 
 
@@ -32,7 +32,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #f1f1f1;
+    color: #ffffff;
     padding-top: 1%;
     z-index: 100;
     display: flex;
@@ -47,13 +47,13 @@ h2 {
     /* background-color: #929292;
     border-radius: 25px; */
     font-family: 'Silkscreen';
-    color: #f1f1f1;
+    color: #ffffff;
 }
 
 
 .card-text,
 .card-title {
-    color: #f1f1f1;
+    color: #ffffff;
 }
 
 .card-txt {
