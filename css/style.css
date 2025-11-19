@@ -81,6 +81,18 @@ h2 {
     background-color: #5a5a5a;
 }
 
+/* Project card sections */
+.card-body h6 {
+    color: #ffffff;
+    font-weight: 700;
+    margin-top: 0.75rem;
+}
+
+.tech-badges .badge {
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
 
 .card-img-top {
     border-radius: 50%;
